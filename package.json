@@ -1,0 +1,27 @@
+{
+  "name": "employee_manager",
+  "version": "1.0.0",
+  "description": "This is is a tool meant to help organize employees in a database. It is a CLI using inquireer. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeythekid031/Employee-Manager.git"
+  },
+  "keywords": [
+    "Employee",
+    "database",
+    "manager"
+  ],
+  "author": "Joe Stutsman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeythekid031/Employee-Manager/issues"
+  },
+  "homepage": "https://github.com/joeythekid031/Employee-Manager#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
